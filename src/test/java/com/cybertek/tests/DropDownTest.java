@@ -3,7 +3,7 @@ package com.cybertek.tests;
 public class DropDownTest {
 
     /*
-      Task3:
+      Task3;
     1. Go to:  http://secure.smartbearsoftware.com/samples/testcomplete12/WebOrders/login.aspx
     2. Login with username: Tester, password: test
     3. Click  Order button
